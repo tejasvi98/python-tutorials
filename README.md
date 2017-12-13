@@ -9,4 +9,4 @@ These tutorials are meant for absolute beginners. Happy learning !!!
 3. [Basics](https://github.com/aiq-lti/python-tutorials/blob/master/basics.md)
 4. [Starting with simple scripts](https://github.com/aiq-lti/python-tutorials/blob/master/starting-with-simple-scripts.md)
 
-You can use [repl.it](https://repl.it/languages/python) to write and test your python scripts online
+You can use [repl.it](https://repl.it/languages/python3) to write and test your python scripts online
