@@ -15,7 +15,7 @@ if __name__ == "__main__":
         "name": "Maria",
         "place": "Kottayam",
     }
-    print serialize_data(data)
+    print(serialize_data(data))
 ```
 
 and suppose the above code is saved in a file called `serialize.py`, you can execute the code by simply calling `serialize.py` in the terminal
