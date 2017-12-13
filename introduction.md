@@ -12,7 +12,7 @@
 * You can run it anywhere, any OS is fine
 
 ## How can I start writing python programs? ##
-* If you are in windows, download and install python from [here](https://www.python.org/downloads/) - If you are not sure which version to use, I prefer you start with 2.7.x version
+* If you are in windows, download and install python from [here](https://www.python.org/downloads/) - If you are not sure which version to use, I prefer you start with 3.6.x version
 * It comes by default in Mac and Linux operating systems, you can kick it off by just typing `python` in the terminal
 
 ## How can I be part of the python community ##
@@ -26,11 +26,11 @@
 * Type `print 'Hello World'` and there you go, Welcome to python
 
 ```
-Akhils-MacBook-Air:python-for-maria akhilputhiry$ python
-Python 2.7.10 (default, Feb  6 2017, 23:53:20) 
-[GCC 4.2.1 Compatible Apple LLVM 8.0.0 (clang-800.0.34)] on darwin
+~ $ python3
+Python 3.6.1 (default, Apr  4 2017, 09:40:21) 
+[GCC 4.2.1 Compatible Apple LLVM 8.1.0 (clang-802.0.38)] on darwin
 Type "help", "copyright", "credits" or "license" for more information.
->>> print 'Hello World!'
+>>> print('Hello World!')
 Hello World!
 >>>
 ```
