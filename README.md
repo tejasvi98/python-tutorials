@@ -8,5 +8,6 @@ These tutorials are meant for absolute beginners. Happy learning !!!
 2. [How python works](https://github.com/aiq-lti/python-tutorials/blob/master/how-it-works.md)
 3. [Basics](https://github.com/aiq-lti/python-tutorials/blob/master/basics.md)
 4. [Starting with simple scripts](https://github.com/aiq-lti/python-tutorials/blob/master/starting-with-simple-scripts.md)
+5. [Digital gates using python](https://github.com/aiq-lti/python-tutorials/blob/master/gates-using-python.md)
 
 You can use [repl.it](https://repl.it/languages/python3) to write and test your python scripts online
